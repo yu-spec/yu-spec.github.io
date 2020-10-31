@@ -76,7 +76,7 @@ header {
   width: 100%;
   margin: 0 auto;
   height: 900px;
-  background-image: url(https://yu-spec.github.io/header.jpg);
+  background-image: url(../images/header.jpg);
   background-size: cover;
   background-position: center;
 }
