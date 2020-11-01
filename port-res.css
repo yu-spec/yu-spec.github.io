@@ -75,6 +75,10 @@ header {
   .menu {
     display: none;
   }
+  
+  .border {
+    font-size: 80px;
+  }
   /* about */
 
   .about-box {
@@ -135,6 +139,10 @@ header {
   /* blog */
   .blog-content {
     display: block;
+  }
+  
+  .blog-title {
+    padding-top: 0;
   }
 
   .blog-box {
